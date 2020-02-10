@@ -1,0 +1,11 @@
+{
+  "name": "tree-single-sarch",
+  "version": "1.0.0",
+  "description": "this will search the text in the tree node or nested object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
